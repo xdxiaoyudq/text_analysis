@@ -12,6 +12,7 @@ setup(
         'streamlit',
         'Requests',
         'beautifulsoup4',
+        'gopup'
         'plotly',
         'jieba',
         'pandas',
